@@ -1,8 +1,10 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
+# Hardhat React Template
+###
+Blockchain Development Framework Template
+###
 Try running some of the following tasks:
+
+`npm install`
 
 ```shell
 npx hardhat help
